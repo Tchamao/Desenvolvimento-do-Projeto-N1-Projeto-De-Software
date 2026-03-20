@@ -1,0 +1,1 @@
+# Prot-tipo-Sequencia-de-Telas-e-Lista-de-Classes-Candidatas-Identificadas

@@ -10,7 +10,7 @@ Pede-se para desenvolver os modelos UML e a implementação em uma linguagem ori
 - Código-fonte disponibilizado no Github seguindo a estrutura do projeto do SDK da Linguagem Java. No Github deve conter README para a compilação e execução do Código.
 - Wiki do GitHub: Vídeo explicativo de cada entrega da N1 e da N2. Nossos vídeos de cada entrega devem conter a explicação de como foi dividida a entrega entre os membros do grupo, explicação dos modelos UML envolvidos e a explicação do Mapeamento dos Modelos UML para Código-fonte implementado em uma Linguagem de Programação Orientada a Objetos (Java); Demonstração do Cenário do Fluxo principal funcionando e o tratamento de fluxos alternativos.
   
------------------------------------------------------------N1----------------------------------------------------------------
+N1: Atividade PRJContexto – Especificação do Cenário do Projeto – StoryBoard - 10% da Nota da N1
 
 (Tarefa) Entrega 1 - Protótipo (Sequencia de Telas) e Lista de Classes Candidatas Identificadas
 Elabore um Protótipo (Sequência de Telas) para o cenário de caso de uso apresentado no documento de proposta de projeto. - Prazo: 22/03/2026
@@ -22,7 +22,7 @@ Publique de forma organizada a entrega na WIKI do Grupo.
 
  Especificação do Cenário do Projeto – StoryBoard - 10% da Nota da N1 
  
- -----------------------------------------------------------N2----------------------------------------------------------------
+ N1: Atividade PRJModDominio – Especificação do Modelo de Domínio– 30% da Nota da N1
 
 (Tarefa) Entrega 2 - Diagrama de Classes de Domínio - Prazo: 29/03/2026
 

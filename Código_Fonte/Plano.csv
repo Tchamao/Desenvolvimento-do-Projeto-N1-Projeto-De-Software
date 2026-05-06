@@ -1,0 +1,5 @@
+idPlano,nome,valorBase,qtdFrutasPermitidas,qtdLegumesPermitidos,qtdVerdurasPermitidas
+1,basico, 100,2 ,2 ,2
+2,basico plus, 150,4 ,4 ,4
+3,premium,200,8,8,4
+
